@@ -1,2 +1,2 @@
 # spt0001
-Description : spt0001ttyy
+Description : spt0001ttyy nb
